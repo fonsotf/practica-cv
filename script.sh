@@ -1,3 +1,3 @@
 #!/bin/bash
-STRING="HELLO WORLD!"
-echo $STRING
+STRING="HELLO HELLO WORLD WILDE "
+printf $STRING 
