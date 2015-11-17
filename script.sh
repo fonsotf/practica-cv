@@ -1,3 +1,3 @@
 #!/bin/bash
 STRING="HELLO HELLO WORLD WILDE "
-printf $STRING 
+printf "$STRING\n" 
